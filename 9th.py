@@ -3,7 +3,7 @@
 # print(len(a))
 # print(a)
 # print(a.upper())
-# print(a.lower())
+
 
 a = "         adarsh is my name !!!"
 print(a)
