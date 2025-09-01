@@ -21,7 +21,7 @@ print(l)
 # print(l.index(7))   #will print the index of the given value in the list
 # print(l.count(7))    #will print the number of occurences of 7 in the list
 
-# doing so will change the oringinal list
+# # doing so will change the oringinal list
 # m=l
 # m[0]=5
 # print(l)   #will print the modified value of l 
@@ -35,8 +35,8 @@ print(l)
 
 # l.insert(1,899)   #will insert 899 at index 1
 
-# m=[900,1000,1100]
-# l.extend(m)        # will append the values of list m to list l
+m=[900,1000,1100]
+l.extend(m)        # will append the values of list m to list l
 
 
 print(l)

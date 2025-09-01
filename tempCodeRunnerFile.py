@@ -1,2 +1,4 @@
-s = {1:5,6:2, 7:2, 2:2,11:3}
-print(s.values())
+age = 12
+gender = "male"
+
+print(f"hey my age is {age} and my gender is {gender}")

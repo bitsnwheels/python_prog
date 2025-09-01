@@ -2,9 +2,9 @@
 # for i in name:
 #     print(i)
     
-# colors=["red","green","yellow","orange","purple",["sky blue","burgandy"]]
-# for color in colors:
-#     print(color)
+colors=["red","green","yellow","orange","purple",["sky blue","burgandy"]]
+for color in colors:
+    print(color)
 
 
 for i in range(20):  #will print numbers upto 19

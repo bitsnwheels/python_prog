@@ -15,4 +15,6 @@ print(tup.count(3))   #will print number of occurrences of element 3
 pos=tup.index(5)   #will give the index where element 5 is present
 print(pos)
 
+print(tup[5])
+
 

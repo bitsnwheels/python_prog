@@ -10,3 +10,5 @@ print(f"Hey my name is {name} and I am from {country}")  #it will also print  He
 print(f"Hey my name is {{name}} and I am from {{country}}")
 
 
+
+

@@ -9,8 +9,8 @@ print("hellow buddy\nhow are you\ni hope you are doing fine")
 # i study in motihari college of engineering
 
 
-        #this is also a way of writing multiline comments
 
+#this is also a way of writing multiline comments
 '''
 my name is adarsh raj
 my fathers name is ranveer kumar thakur
@@ -31,8 +31,8 @@ fdkks
         #print("hellow "how are you" ")  this will throw an error
 print("hellow \"how are you\" ") 
 
-print("hwll",8,9,sep="-",end=" ")
-print("adarsh")
+print("hwll",8,9,"Adarsh",sep="-",end="\n")
+print("\nadarsh")
 
 
 

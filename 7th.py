@@ -1,5 +1,5 @@
 # apple="He said , \"I want to eat an apple\""
-apple = 'He said, "I want to eat an apple"'
+apple = "He said, 'I want to eat an apple'"
 
 print(apple)
 

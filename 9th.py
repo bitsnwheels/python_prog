@@ -5,7 +5,7 @@
 # print(a.upper())
 
 
-a = "         adarsh is my name !!!"
+a = "         adarsh is my name !!"
 print(a)
 
 print(a.strip())  # removes any white spaces before and after the string
@@ -13,4 +13,9 @@ print(a.strip())  # removes any white spaces before and after the string
 print(a.rstrip("!"))  # removes the given trailing characters if present
 
 # we have plethora of string methods and we dont need to remember it .we can
-# always have a reference from various webistes
+# always have a reference from various websites
+
+
+ad = "this is a string  "
+print(ad)
+print(ad.strip().isdigit())

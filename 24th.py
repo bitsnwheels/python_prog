@@ -18,4 +18,3 @@ print(square.__doc__)   #it will print takes an input and returns its square
         # write python code.The primary focus  of pep8 is to improve the readibility
         # and consistency of python code
         
-        

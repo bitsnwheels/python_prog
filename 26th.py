@@ -23,7 +23,7 @@ for item in info:    #we can acces the set items with the help of for loop
     
 """
   -----------------note---------------------
-  list=[2,e]     mutable
+  list=[2,e]     mutable 
   tuple=(3,t,3,2)  immutable
   set={2,5,3,55}    immutable
   dict={2:34,5:53,90:343}  mutable

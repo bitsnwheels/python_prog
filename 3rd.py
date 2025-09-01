@@ -28,3 +28,8 @@ dict1={"name":"sakshi","age":20,"canvote":True}
 print(dict1)
 print(tuple1)
 print(list1)
+
+# list2 = [2,3,5,1]
+# tuple3 = (3,4,5,67)
+# print(list2)
+# print(tuple3)

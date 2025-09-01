@@ -33,3 +33,4 @@ result=add(c=1,a=2,b=9)   #here,we are writing the variable names itself.also we
 print(result)   #will print 12
 
 average(2,5,6)
+

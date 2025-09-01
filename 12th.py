@@ -4,7 +4,7 @@
 # match case statements are similar to switch case statements.the only difference
 # is in case of former we used to have break statements but in this case we dont need this
 #   also we can than one default cases in this case
-#  also we can have conditionhave more s in the default case
+#  also we can have condition have more s in the default case
 
 x = int(input("enter the value of x: "))
 
@@ -17,3 +17,15 @@ match x:
         print("x is greater than ninety")
     case _:  # this is default case
         print(x)
+        
+y = int(input("Enter the value of y"))
+
+match y:
+    case 0:
+        print("y is zero")
+    case 34:
+        print(" y is 34")
+    case _ if y>10:
+        print("y is greater than 10")
+    case _:
+        print(y)

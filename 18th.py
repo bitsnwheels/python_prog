@@ -1,10 +1,10 @@
 marks=[3,5,6,"harry",True]
-print(marks)
+# print(marks)
 
-# for i in range(len(marks)):
-#     print(marks[i])
-    
-# print(marks[-3])   #negative indexing is used in this case also
+# for i in marks:
+#     print(i)
+
+print(marks[-3])   #negative indexing is used in this case also
 
                 #we can also search in indexing with the help of below code
 # if 5  in marks:
@@ -38,3 +38,7 @@ print(lst)    #will print 0,1 and 2
 
 lst=[i for i in range(10) if i%2==0]
 print(lst)    #will print all the even numbers from 0 to 8 including 0
+
+
+mylst = [i for i in marks if type(i)==int]
+print(mylst)
