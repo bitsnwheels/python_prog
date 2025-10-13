@@ -5,6 +5,7 @@ def test_fib_base_cases():
     assert fib(0) == 0
     assert fib(1) == 1
 
+
 def test_fib_small_numbers():
     assert fib(2) == 1
     assert fib(3) == 2
